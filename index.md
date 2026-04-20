@@ -12,4 +12,4 @@ Francisco Arisso is an aspiring computer scientist pursuing a specialization in 
 - [Resume](resume.md)
 - [Cover Letter](coverletter.md)
 - [Instructions](instructions.md)
-- [Proposal](proposal.md)
+- [Proposal](OUR__proposal_Arisso_Revised_git.pdf)
