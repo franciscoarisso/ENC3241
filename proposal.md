@@ -5,4 +5,4 @@ title: Proposal
 
 # Proposal
 
-[Paste your proposal here]
+(OUR__proposal_Arisso_Revised_git.pdf)
